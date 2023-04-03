@@ -15,5 +15,5 @@ The modules used are:
 - ReGex
 - CSV
 
-Made this as my own alternative to one of the exercises from Automate the Boring Stuff by Al Sweigart
+Made this as my own alternative to one of the exercises from Automate the Boring Stuff by Al Sweigart - 
 His website is : "http://inventwithpython.com/"
